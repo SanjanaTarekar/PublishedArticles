@@ -8,3 +8,5 @@ Tableau: Data Insights through Visualizations- https://medium.com/@suntarekar/ta
 VADER for Sentiment Analysis- https://medium.com/@suntarekar/vader-for-sentiment-analysis-a29f3f1dbcad
 
 Navigating the Seas of Data: A Data Scientist’s Guide to Selecting Data for Studies - https://medium.com/@suntarekar/navigating-the-seas-of-data-a-data-scientists-guide-to-selecting-data-for-studies-128b9f54d500
+
+Data Science with Multidimensional Arrays: NumPy Essentials - https://medium.com/@suntarekar/data-science-with-multidimensional-arrays-numpy-essentials-aa9e401e0c2c
